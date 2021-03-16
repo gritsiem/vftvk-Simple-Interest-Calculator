@@ -22,4 +22,32 @@ h1{
     top: 0; left: 0; bottom: 0; right: 0;
 }
 
+button{
+background-color: cadetblue;
+color: white;
+border-radius:5px;
+border:none;
+font-weight:bold;
+padding:10px;
+}
+
+table{
+   border:none;
+   margin:auto;
+}
+table tr td{
+    padding:5px 0;
+}
+table tr td:nth-child(2){
+    padding-left: 10px;
+    width:196px;
+    white-space:nowrap;
+}
+table p{
+    margin:0px;
+}
+table p:first-child{
+    padding-top:10px;
+}
+
 
